@@ -12,7 +12,7 @@ This project demonstrates a simple and clean implementation of **Read More / Rea
 
 ---
 Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot]('screenshot.png')
 
 
 
