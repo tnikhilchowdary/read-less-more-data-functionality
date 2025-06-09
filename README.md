@@ -11,8 +11,9 @@ This project demonstrates a simple and clean implementation of **Read More / Rea
 - Toggle full content with "Read More" and "Read Less" buttons.
 
 ---
-Screenshot
-![App Screenshot](screenshot.png)
+## Screenshot
+
+![App Screenshot](src/screenshot.png)
 
 
 
